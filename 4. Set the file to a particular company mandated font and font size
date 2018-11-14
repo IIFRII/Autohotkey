@@ -1,0 +1,4 @@
+!+g::
+SendInput, ^a
+SendInput, !hffar{Tab}10{Enter}
+return
