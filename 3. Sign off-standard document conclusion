@@ -1,0 +1,9 @@
+!+l::
+SendInput, Conclusion: XXXXx
+SendInput, {Enter}
+SendInput, {Enter}
+SendInput, Lavoro svolto da X, %A_MMMM% %A_YYYY%
+SendInput, {Enter}
+SendInput, Lavoro rivisto da Y
+SendInput, {Enter}
+return
