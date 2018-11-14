@@ -1,9 +1,9 @@
 !+l::
-SendInput, Conclusion: XXXXx
+SendInput, Conclusion: XXXXX.
 SendInput, {Enter}
 SendInput, {Enter}
-SendInput, Performed by X, %A_MMMM% %A_YYYY%
+SendInput, Performed by X, %A_MMMM% %A_YYYY%.
 SendInput, {Enter}
-SendInput, Reviewed by Y
+SendInput, Reviewed by Y, %A_MMMM% %A_YYYY%.
 SendInput, {Enter}
 return
