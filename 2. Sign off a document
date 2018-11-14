@@ -1,6 +1,6 @@
 !+à::
-SendInput, Lavoro svolto da Filippo Rossolato, %A_MMMM% %A_YYYY%
+SendInput, Performed by: X, %A_MMMM% %A_YYYY%.
 SendInput, {Enter}
-SendInput, Lavoro rivisto da
+SendInput, Reviewed by: Y, %A_MMMM% %A_YYYY%.
 SendInput, {Enter}
 return
