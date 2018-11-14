@@ -1,0 +1,4 @@
+; TODAY DATE, FORMAT DD/MM/YYYY
+!+ò::
+SendInput,%A_DD%/%A_MM%/%A_YYYY%
+return
