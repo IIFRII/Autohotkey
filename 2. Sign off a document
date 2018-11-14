@@ -1,0 +1,6 @@
+!+à::
+SendInput, Lavoro svolto da Filippo Rossolato, %A_MMMM% %A_YYYY%
+SendInput, {Enter}
+SendInput, Lavoro rivisto da
+SendInput, {Enter}
+return
