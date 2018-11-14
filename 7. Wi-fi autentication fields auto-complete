@@ -1,0 +1,6 @@
+!+u::
+SendInput,SecretUsername
+SendInput, {Tab}
+SendInput, SecretPassword
+SendInput, {Enter}
+return
