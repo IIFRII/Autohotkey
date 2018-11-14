@@ -2,8 +2,8 @@
 SendInput, Conclusion: XXXXx
 SendInput, {Enter}
 SendInput, {Enter}
-SendInput, Lavoro svolto da X, %A_MMMM% %A_YYYY%
+SendInput, Performed by X, %A_MMMM% %A_YYYY%
 SendInput, {Enter}
-SendInput, Lavoro rivisto da Y
+SendInput, Reviewed by Y
 SendInput, {Enter}
 return
